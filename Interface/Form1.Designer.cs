@@ -1,0 +1,116 @@
+﻿namespace Interface
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            button1 = new Button();
+            textBox1 = new TextBox();
+            listBox1 = new ListBox();
+            button2 = new Button();
+            button3 = new Button();
+            SuspendLayout();
+            // 
+            // button1
+            // 
+            button1.Location = new Point(258, 149);
+            button1.Name = "button1";
+            button1.Size = new Size(251, 88);
+            button1.TabIndex = 0;
+            button1.Text = "Add new task";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
+            // textBox1
+            // 
+            textBox1.AcceptsTab = true;
+            textBox1.BackColor = Color.White;
+            textBox1.Font = new Font("Segoe UI Light", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            textBox1.ForeColor = Color.Gray;
+            textBox1.Location = new Point(3, 51);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(479, 27);
+            textBox1.TabIndex = 1;
+            // 
+            // listBox1
+            // 
+            listBox1.BackColor = SystemColors.InfoText;
+            listBox1.Font = new Font("Microsoft YaHei", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            listBox1.ForeColor = SystemColors.GradientInactiveCaption;
+            listBox1.FormattingEnabled = true;
+            listBox1.Location = new Point(545, 12);
+            listBox1.Name = "listBox1";
+            listBox1.Size = new Size(543, 598);
+            listBox1.TabIndex = 2;
+            listBox1.SelectedIndexChanged += listBox1_SelectedIndexChanged;
+            // 
+            // button2
+            // 
+            button2.Location = new Point(149, 243);
+            button2.Name = "button2";
+            button2.Size = new Size(129, 29);
+            button2.TabIndex = 3;
+            button2.Text = "View tasks";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
+            // button3
+            // 
+            button3.Location = new Point(920, 550);
+            button3.Name = "button3";
+            button3.Size = new Size(157, 54);
+            button3.TabIndex = 4;
+            button3.Text = "button3";
+            button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(1089, 616);
+            Controls.Add(button3);
+            Controls.Add(button2);
+            Controls.Add(listBox1);
+            Controls.Add(textBox1);
+            Controls.Add(button1);
+            Name = "Form1";
+            Text = "Form1";
+            Load += Form1_Load;
+            ResumeLayout(false);
+            PerformLayout();
+        }
+
+        #endregion
+
+        private Button button1;
+        private TextBox textBox1;
+        private ListBox listBox1;
+        private Button button2;
+        private Button button3;
+    }
+}
