@@ -1,0 +1,15 @@
+C:\Users\josec\Desktop\revisao gigantekkk\bin\Debug\net9.0\revisao gigantekkk.exe
+C:\Users\josec\Desktop\revisao gigantekkk\bin\Debug\net9.0\revisao gigantekkk.deps.json
+C:\Users\josec\Desktop\revisao gigantekkk\bin\Debug\net9.0\revisao gigantekkk.runtimeconfig.json
+C:\Users\josec\Desktop\revisao gigantekkk\bin\Debug\net9.0\revisao gigantekkk.dll
+C:\Users\josec\Desktop\revisao gigantekkk\bin\Debug\net9.0\revisao gigantekkk.pdb
+C:\Users\josec\Desktop\revisao gigantekkk\obj\Debug\net9.0\revisao gigantekkk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josec\Desktop\revisao gigantekkk\obj\Debug\net9.0\revisao gigantekkk.AssemblyInfoInputs.cache
+C:\Users\josec\Desktop\revisao gigantekkk\obj\Debug\net9.0\revisao gigantekkk.AssemblyInfo.cs
+C:\Users\josec\Desktop\revisao gigantekkk\obj\Debug\net9.0\revisao gigantekkk.csproj.CoreCompileInputs.cache
+C:\Users\josec\Desktop\revisao gigantekkk\obj\Debug\net9.0\revisao gigantekkk.sourcelink.json
+C:\Users\josec\Desktop\revisao gigantekkk\obj\Debug\net9.0\revisao gigantekkk.dll
+C:\Users\josec\Desktop\revisao gigantekkk\obj\Debug\net9.0\refint\revisao gigantekkk.dll
+C:\Users\josec\Desktop\revisao gigantekkk\obj\Debug\net9.0\revisao gigantekkk.pdb
+C:\Users\josec\Desktop\revisao gigantekkk\obj\Debug\net9.0\revisao gigantekkk.genruntimeconfig.cache
+C:\Users\josec\Desktop\revisao gigantekkk\obj\Debug\net9.0\ref\revisao gigantekkk.dll
