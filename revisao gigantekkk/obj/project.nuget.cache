@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wA0475WZDO8=",
+  "dgSpecHash": "l2/5oY3nB0E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\josec\\Desktop\\revisao gigantekkk\\revisao gigantekkk.csproj",
+  "projectFilePath": "C:\\Users\\josec\\Desktop\\To-Do List\\revisao gigantekkk\\revisao gigantekkk.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josec\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
     "C:\\Users\\josec\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",

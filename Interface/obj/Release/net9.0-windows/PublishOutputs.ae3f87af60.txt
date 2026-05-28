@@ -1,0 +1,10 @@
+C:\Users\josec\OneDrive\Documentos\Estudo\Programação\revisao gigantekkk.exe
+C:\Users\josec\OneDrive\Documentos\Estudo\Programação\Interface.exe
+C:\Users\josec\OneDrive\Documentos\Estudo\Programação\revisao gigantekkk.deps.json
+C:\Users\josec\OneDrive\Documentos\Estudo\Programação\revisao gigantekkk.runtimeconfig.json
+C:\Users\josec\OneDrive\Documentos\Estudo\Programação\Interface.dll
+C:\Users\josec\OneDrive\Documentos\Estudo\Programação\Interface.deps.json
+C:\Users\josec\OneDrive\Documentos\Estudo\Programação\Interface.runtimeconfig.json
+C:\Users\josec\OneDrive\Documentos\Estudo\Programação\Interface.pdb
+C:\Users\josec\OneDrive\Documentos\Estudo\Programação\revisao gigantekkk.dll
+C:\Users\josec\OneDrive\Documentos\Estudo\Programação\revisao gigantekkk.pdb

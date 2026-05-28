@@ -22,3 +22,27 @@ C:\Users\josec\Desktop\Interface\obj\Debug\net9.0-windows\refint\Interface.dll
 C:\Users\josec\Desktop\Interface\obj\Debug\net9.0-windows\Interface.pdb
 C:\Users\josec\Desktop\Interface\obj\Debug\net9.0-windows\Interface.genruntimeconfig.cache
 C:\Users\josec\Desktop\Interface\obj\Debug\net9.0-windows\ref\Interface.dll
+C:\Users\josec\Desktop\To-Do List\Interface\bin\Debug\net9.0-windows\revisao gigantekkk.deps.json
+C:\Users\josec\Desktop\To-Do List\Interface\bin\Debug\net9.0-windows\revisao gigantekkk.runtimeconfig.json
+C:\Users\josec\Desktop\To-Do List\Interface\bin\Debug\net9.0-windows\revisao gigantekkk.exe
+C:\Users\josec\Desktop\To-Do List\Interface\bin\Debug\net9.0-windows\Interface.exe
+C:\Users\josec\Desktop\To-Do List\Interface\bin\Debug\net9.0-windows\Interface.deps.json
+C:\Users\josec\Desktop\To-Do List\Interface\bin\Debug\net9.0-windows\Interface.runtimeconfig.json
+C:\Users\josec\Desktop\To-Do List\Interface\bin\Debug\net9.0-windows\Interface.dll
+C:\Users\josec\Desktop\To-Do List\Interface\bin\Debug\net9.0-windows\Interface.pdb
+C:\Users\josec\Desktop\To-Do List\Interface\bin\Debug\net9.0-windows\revisao gigantekkk.dll
+C:\Users\josec\Desktop\To-Do List\Interface\bin\Debug\net9.0-windows\revisao gigantekkk.pdb
+C:\Users\josec\Desktop\To-Do List\Interface\obj\Debug\net9.0-windows\Interface.csproj.AssemblyReference.cache
+C:\Users\josec\Desktop\To-Do List\Interface\obj\Debug\net9.0-windows\Interface.Form1.resources
+C:\Users\josec\Desktop\To-Do List\Interface\obj\Debug\net9.0-windows\Interface.csproj.GenerateResource.cache
+C:\Users\josec\Desktop\To-Do List\Interface\obj\Debug\net9.0-windows\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josec\Desktop\To-Do List\Interface\obj\Debug\net9.0-windows\Interface.AssemblyInfoInputs.cache
+C:\Users\josec\Desktop\To-Do List\Interface\obj\Debug\net9.0-windows\Interface.AssemblyInfo.cs
+C:\Users\josec\Desktop\To-Do List\Interface\obj\Debug\net9.0-windows\Interface.csproj.CoreCompileInputs.cache
+C:\Users\josec\Desktop\To-Do List\Interface\obj\Debug\net9.0-windows\Interface.sourcelink.json
+C:\Users\josec\Desktop\To-Do List\Interface\obj\Debug\net9.0-windows\Interface.csproj.Up2Date
+C:\Users\josec\Desktop\To-Do List\Interface\obj\Debug\net9.0-windows\Interface.dll
+C:\Users\josec\Desktop\To-Do List\Interface\obj\Debug\net9.0-windows\refint\Interface.dll
+C:\Users\josec\Desktop\To-Do List\Interface\obj\Debug\net9.0-windows\Interface.pdb
+C:\Users\josec\Desktop\To-Do List\Interface\obj\Debug\net9.0-windows\Interface.genruntimeconfig.cache
+C:\Users\josec\Desktop\To-Do List\Interface\obj\Debug\net9.0-windows\ref\Interface.dll

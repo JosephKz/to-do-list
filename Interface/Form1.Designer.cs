@@ -37,7 +37,7 @@
             // 
             // button1
             // 
-            button1.Location = new Point(258, 149);
+            button1.Location = new Point(826, 72);
             button1.Name = "button1";
             button1.Size = new Size(251, 88);
             button1.TabIndex = 0;
@@ -51,10 +51,11 @@
             textBox1.BackColor = Color.White;
             textBox1.Font = new Font("Segoe UI Light", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             textBox1.ForeColor = Color.Gray;
-            textBox1.Location = new Point(3, 51);
+            textBox1.Location = new Point(598, 39);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(479, 27);
             textBox1.TabIndex = 1;
+            textBox1.TextChanged += textBox1_TextChanged;
             // 
             // listBox1
             // 
@@ -62,7 +63,7 @@
             listBox1.Font = new Font("Microsoft YaHei", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             listBox1.ForeColor = SystemColors.GradientInactiveCaption;
             listBox1.FormattingEnabled = true;
-            listBox1.Location = new Point(545, 12);
+            listBox1.Location = new Point(0, -3);
             listBox1.Name = "listBox1";
             listBox1.Size = new Size(543, 598);
             listBox1.TabIndex = 2;
@@ -70,7 +71,7 @@
             // 
             // button2
             // 
-            button2.Location = new Point(149, 243);
+            button2.Location = new Point(414, 563);
             button2.Name = "button2";
             button2.Size = new Size(129, 29);
             button2.TabIndex = 3;
@@ -80,12 +81,13 @@
             // 
             // button3
             // 
-            button3.Location = new Point(920, 550);
+            button3.BackColor = Color.Salmon;
+            button3.Location = new Point(0, 558);
             button3.Name = "button3";
-            button3.Size = new Size(157, 54);
+            button3.Size = new Size(135, 39);
             button3.TabIndex = 4;
-            button3.Text = "button3";
-            button3.UseVisualStyleBackColor = true;
+            button3.Text = "Delet";
+            button3.UseVisualStyleBackColor = false;
             button3.Click += button3_Click;
             // 
             // Form1

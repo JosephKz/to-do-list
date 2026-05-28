@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josec\\Desktop\\revisao gigantekkk\\revisao gigantekkk.csproj": {}
+    "C:\\Users\\josec\\Desktop\\To-Do List\\revisao gigantekkk\\revisao gigantekkk.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josec\\Desktop\\revisao gigantekkk\\revisao gigantekkk.csproj": {
+    "C:\\Users\\josec\\Desktop\\To-Do List\\revisao gigantekkk\\revisao gigantekkk.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josec\\Desktop\\revisao gigantekkk\\revisao gigantekkk.csproj",
+        "projectUniqueName": "C:\\Users\\josec\\Desktop\\To-Do List\\revisao gigantekkk\\revisao gigantekkk.csproj",
         "projectName": "revisao gigantekkk",
-        "projectPath": "C:\\Users\\josec\\Desktop\\revisao gigantekkk\\revisao gigantekkk.csproj",
+        "projectPath": "C:\\Users\\josec\\Desktop\\To-Do List\\revisao gigantekkk\\revisao gigantekkk.csproj",
         "packagesPath": "C:\\Users\\josec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josec\\Desktop\\revisao gigantekkk\\obj\\",
+        "outputPath": "C:\\Users\\josec\\Desktop\\To-Do List\\revisao gigantekkk\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josec\\AppData\\Roaming\\NuGet\\NuGet.Config",

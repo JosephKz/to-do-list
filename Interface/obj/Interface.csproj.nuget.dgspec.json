@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josec\\Desktop\\interface\\Interface.csproj": {}
+    "C:\\Users\\josec\\Desktop\\To-Do List\\Interface\\Interface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josec\\Desktop\\interface\\Interface.csproj": {
+    "C:\\Users\\josec\\Desktop\\To-Do List\\Interface\\Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josec\\Desktop\\interface\\Interface.csproj",
+        "projectUniqueName": "C:\\Users\\josec\\Desktop\\To-Do List\\Interface\\Interface.csproj",
         "projectName": "Interface",
-        "projectPath": "C:\\Users\\josec\\Desktop\\interface\\Interface.csproj",
+        "projectPath": "C:\\Users\\josec\\Desktop\\To-Do List\\Interface\\Interface.csproj",
         "packagesPath": "C:\\Users\\josec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josec\\Desktop\\Interface\\obj\\",
+        "outputPath": "C:\\Users\\josec\\Desktop\\To-Do List\\Interface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josec\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net9.0-windows7.0": {
             "targetAlias": "net9.0-windows",
             "projectReferences": {
-              "C:\\Users\\josec\\Desktop\\revisao gigantekkk\\revisao gigantekkk.csproj": {
-                "projectPath": "C:\\Users\\josec\\Desktop\\revisao gigantekkk\\revisao gigantekkk.csproj"
+              "C:\\Users\\josec\\Desktop\\To-Do List\\revisao gigantekkk\\revisao gigantekkk.csproj": {
+                "projectPath": "C:\\Users\\josec\\Desktop\\To-Do List\\revisao gigantekkk\\revisao gigantekkk.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\josec\\Desktop\\revisao gigantekkk\\revisao gigantekkk.csproj": {
+    "C:\\Users\\josec\\Desktop\\To-Do List\\revisao gigantekkk\\revisao gigantekkk.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josec\\Desktop\\revisao gigantekkk\\revisao gigantekkk.csproj",
+        "projectUniqueName": "C:\\Users\\josec\\Desktop\\To-Do List\\revisao gigantekkk\\revisao gigantekkk.csproj",
         "projectName": "revisao gigantekkk",
-        "projectPath": "C:\\Users\\josec\\Desktop\\revisao gigantekkk\\revisao gigantekkk.csproj",
+        "projectPath": "C:\\Users\\josec\\Desktop\\To-Do List\\revisao gigantekkk\\revisao gigantekkk.csproj",
         "packagesPath": "C:\\Users\\josec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josec\\Desktop\\revisao gigantekkk\\obj\\",
+        "outputPath": "C:\\Users\\josec\\Desktop\\To-Do List\\revisao gigantekkk\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josec\\AppData\\Roaming\\NuGet\\NuGet.Config",

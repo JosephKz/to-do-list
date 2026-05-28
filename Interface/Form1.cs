@@ -11,6 +11,7 @@ namespace Interface
             _taskManager = manager;
             InitializeComponent();
             listBox1.Visible = false;
+            button3.Visible = false;
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -30,11 +31,11 @@ namespace Interface
 
             }
         }
-        
+
         private bool clickOn = false;
         private void button2_Click(object sender, EventArgs e)
         {
-            ;
+            
             clickOn = !clickOn;
             if (clickOn)
             {
@@ -46,22 +47,29 @@ namespace Interface
                 button2.Text = "View Tasks";
                 listBox1.Visible = false;
             }
-            
+
         }
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-           
+            
         }
-
+           
         private void button3_Click(object sender, EventArgs e)
         {
-            if(listBox1.SelectedItem != null)
+            
+            if (listBox1.SelectedItem != null)
             {
                 var item = listBox1.SelectedItem.ToString();
                 _taskManager.RemoveTask(item);
                 listBox1.Items.Remove(item);
             }
+            
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
