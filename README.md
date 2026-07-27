@@ -1,2 +1,2 @@
-# to-do-list
+# TO-DO-LIST
 Programa de registro de tarefas com ajuda de IA pois ainda nao tenho sabedoria o suficiente pra fazer algo solo
